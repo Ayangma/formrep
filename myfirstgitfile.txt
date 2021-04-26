@@ -1,0 +1,20 @@
+hallo,
+hier wird ein Git crashkurs geben.
+
+Mit dem Befehl "git commit" werden die Dateien, die sich im "Staging area" befinden, ins git repository übertragen.  
+
+Jetzt werden die Änderungen in Sourcetree angezeigt.
+
+Erstellung eines neuen Zweigs --> Branch1st
+
+Fast forward merging: hier werden die Änderunge im Branch1st ins Master eingescheckt, dh. master wird gleich  Branch1st sein.
+- git checkout Master
+- git merge branch1st
+
+das Branch1st danach löschen
+- git branch -d Branch1st 
+---------------------------------
+Start --> Three way Merge 
+-----------------------------------
+diese Änderung findet sich lediglich im "Threeway-Merge". 
+
