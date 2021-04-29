@@ -15,6 +15,7 @@ das Branch1st danach löschen
 - git branch -d Branch1st 
 ---------------------------------
 Start --> Three way Merge 
------------------------------------
+----------------------------------
 diese Änderung findet sich lediglich im "Threeway-Merge". 
-
+----------------------------------
+changing direct on the website 
